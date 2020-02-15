@@ -28,8 +28,11 @@ jobs:
           run: |
             npm install autoprefixer
             npm install postcss-cli
+
         - name: Build
-          run: hugo --gc --minify --cleanDestinationDir
+          run: |
+            hugo --gc --minify --cleanDestinationDir
+            echo "saifeh.ca" >> public/CNAME
 
         - name: Deploy to GitHub Pages
           uses: peaceiris/actions-gh-pages@v2.5.1
