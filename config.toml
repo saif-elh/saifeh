@@ -1,4 +1,4 @@
-baseURL = "https://lab.samsongama.com/seh/"
+baseURL = "http://saifeh.ca/"
 title = "Saif Eh"
 theme = "introduction"
 DefaultContentLanguage = "en" # Default language for multilingual sites
