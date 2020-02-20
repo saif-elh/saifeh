@@ -10,4 +10,4 @@ Hi! My name is Saif El Husseini and I am a recent Civil Engineering graduate at 
 My interests are within the interdisciplinary work of engineering, psychology, technology, business and entrepreneurship. Currently, I am the founder of ‘Reachout! Initiative Canada’, an online national mental health resource bank providing Canadians resource assistance.
 
 
-My goal is to be an advocate of change whose mission is to educate others on the importance of mental health, and guide people toward a better life through resources, and workshops.
+My goal is to be an advocate of change and educate others on the importance of mental health, meanwhile guiding people towards a better life.
