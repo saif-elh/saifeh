@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-mailto: selhu093@gmail.com
+email: selhu093@gmail.com
 ---
 
 I would love to hear from you!
