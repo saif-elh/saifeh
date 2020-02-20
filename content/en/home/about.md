@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: "image.jpg"
+image: "image.JPG"
 weight: 8
 ---
 
