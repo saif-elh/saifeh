@@ -1,7 +1,7 @@
 ---
 title: "About"
 image: "image.JPG"
-weight: 8
+weight: 7
 ---
 
 Hello! 👋 My name is Saif El Husseini. 
