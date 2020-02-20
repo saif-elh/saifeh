@@ -4,4 +4,4 @@ email: selhu093@gmail.com
 ---
 
 I would love to hear from you!
-Feel free to contact me below (:
+contact me below
